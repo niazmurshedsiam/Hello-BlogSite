@@ -1,0 +1,15 @@
+.hederInfo{
+    background-image: url(../../../image/international-style-architecture-in-home-design-1280x720.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 550px;
+    z-index: -4;
+}
+.margin{
+    z-index:16;
+    margin-top: -16% !important;
+    background-color: #96abbd;
+    opacity: 1 !important;
+    border-radius: 5px;
+}

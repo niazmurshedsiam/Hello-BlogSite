@@ -1,0 +1,23 @@
+a.facebook {
+    background-color: #3b5998;
+    color: white;
+    font-size: 15px;
+    padding: 6px;
+}
+a.tweeter {
+    background-color: #00acee ;
+    color: white;
+    font-size: 15px;
+    padding: 6px;
+}
+
+a.pinterest{
+    background-color: #E60023;
+    color: white;
+    font-size: 15px;
+    padding: 6px;
+}
+.social-icon a{
+    margin-right: 10px;
+    border-radius: 2px;
+}

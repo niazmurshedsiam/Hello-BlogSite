@@ -1,0 +1,23 @@
+.err{
+    color: red;
+}
+.formInfo{
+    background-color: #2083c5;
+}
+input.blog-btn {
+    background-color: blue;
+    padding: 10px;
+    width: 70%;
+    color: white;
+    border-radius: 6px;
+    border: 1px solid #2083c5;
+    background-color: #2083c5;
+    transition: .3s;
+}
+.admin-sidebar{
+    min-height: 100vh;
+}
+input.blog-btn:hover{
+    background-color: #2083c5;
+    transition: .3s;
+}
